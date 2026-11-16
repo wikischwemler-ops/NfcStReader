@@ -2,3 +2,6 @@ nfc-cr95hf/firmware/libopencm3/
 nfc-cr95hf/firmware/build/
 nfc-cr95hf/pc/bin/
 nfc-cr95hf/pc/obj/
+
+# Installer-Ausgabe
+nfc-cr95hf/installer/Output/
